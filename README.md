@@ -1,8 +1,3 @@
-## markov-shrugged
-this doesn't need a description
-
----
-
 ## MARKOV SHRUGGED
 ## ALL THIRTY GOD DAMN CHAPTERS
 
