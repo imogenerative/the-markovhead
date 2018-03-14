@@ -9,4 +9,4 @@
 
 ---
 
-## [A PARAGRAPH OF RANDOM BULLSHIT](https://markov-shrugged.herokuapp.com)
+## [READ A PARAGRAPH OF RANDOM BULLSHIT](https://markov-shrugged.herokuapp.com)
