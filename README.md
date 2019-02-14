@@ -3,10 +3,10 @@
 
 ---
 
-* [PART 1](https://imogenerative.github.io/the-markovhead/the-markovhead-part-1)
-* [PART 2](https://imogenerative.github.io/the-markovhead/the-markovhead-part-2)
-* [PART 3](https://imogenerative.github.io/the-markovhead/the-markovhead-part-3)
-* [PART 4](https://imogenerative.github.io/the-markovhead/the-markovhead-part-4)
+* [PART 1](https://scoutquinn.github.io/the-markovhead/the-markovhead-part-1)
+* [PART 2](https://scoutquinn.github.io/the-markovhead/the-markovhead-part-2)
+* [PART 3](https://scoutquinn.github.io/the-markovhead/the-markovhead-part-3)
+* [PART 4](https://scoutquinn.github.io/the-markovhead/the-markovhead-part-4)
 
 ---
 
